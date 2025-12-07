@@ -13,13 +13,13 @@
 - PHP 8.0+
 - Laravel 9.x+
 - Composer
-- MySQL/PostgreSQL
+- MySQL
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/chameen9/snapwave
 cd Snapwave
 ```
 
