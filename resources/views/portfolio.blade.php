@@ -6,6 +6,7 @@
     <title>Portfolio - SnapWave</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="icon" href="./image/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href=".image/apple-touch-icon.png">
 </head>
 <body>
     
