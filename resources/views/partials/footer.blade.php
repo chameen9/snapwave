@@ -24,8 +24,8 @@
                                     <li><a href="{{route('about')}}">About Us</a></li>
                                     <li><a href="{{route('portfolio')}}">Portfolio</a></li>
                                     <li><a href="{{route('contact')}}">Contact Us</a></li>
-                                    <li><a href="{{route('partners')}}">Partner Network</a></li>
-                                    <li><a href="{{route('gallery')}}">Gallery</a></li>
+                                    <!-- <li><a href="{{route('partners')}}">Partner Network</a></li>
+                                    <li><a href="{{route('gallery')}}">Gallery</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -46,9 +46,9 @@
                             <div class="footer-contact-container">
                                 <h5>Contact Info</h5>
                                 <ul class="contact-list">
-                                    <li>info@snapwave.lk</li>
-                                    <li>077 423 6981</li>
-                                    <li>Galle, Sri Lanka</li>
+                                    <li><a href="mailto:info@snapwave.lk">info@snapwave.lk</a></li>
+                                    <li><a href="tel:+94774236981">077 423 6981</a></li>
+                                    <li><a href="">Galle, Sri Lanka</a></li>
                                 </ul>
                                 <div class="d-flex flex-column gspace-1">
                                     <h5>Social Media</h5>

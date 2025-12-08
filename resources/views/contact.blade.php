@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="d-grid">
                                         <span>Phone Number</span>
-                                        <h5>077 423 6981</h5>
+                                        <h5><a href="tel:+94774236981">077 423 6981</a></h5>
                                     </div>
                                 </div>
                                 <div class="d-flex flex-column flex-md-row align-items-center text-md-start text-center gspace-2">
@@ -82,7 +82,7 @@
                                     </div>
                                     <div class="d-grid">
                                         <span>Email Address</span>
-                                        <h5>info@snapwave.lk</h5>
+                                        <h5><a href="mailto:info@snapwave.lk">info@snapwave.lk</a></h5>
                                     </div>
                                 </div>
                                 <div class="d-flex flex-column flex-md-row align-items-center text-md-start text-center gspace-2">
@@ -95,7 +95,7 @@
                                     </div>
                                     <div class="d-grid">
                                         <span>Address</span>
-                                        <h5>Galle, Sri Lanka</h5>
+                                        <h5><a href="">Galle, Sri Lanka</a></h5>
                                     </div>
                                 </div>
                             </div>
