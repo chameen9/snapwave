@@ -6,16 +6,9 @@
     <title>Portfolio - SnapWave</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="icon" href="./image/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href=".image/apple-touch-icon.png">
 </head>
 <body>
     
-    <!-- Section Header -->
-    <header>
-        <!-- Section Navbar -->
-        <div id="header"></div>
-    </header>
-
     <!-- Section Header -->
     <header>
         @include('partials.header')
@@ -144,13 +137,14 @@
     <footer>
         @include('partials.footer')
     </footer>
-
+    
     <script src="js/vendor/jquery.min.js"></script>
     <script src="js/vendor/bootstrap.bundle.min.js"></script>
     <script src="js/vendor/swiper-bundle.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/swiper-script.js"></script>
     <script src="js/submit-form.js"></script>
+    <script src="js/vendor/isotope.pkgd.min.js"></script>
     <script src="js/video_embedded.js"></script>
 </body>
 </html>
